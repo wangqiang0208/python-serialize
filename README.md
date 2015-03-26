@@ -1,0 +1,5 @@
+# python-serialize
+
+一个对称加密的例子，可以用于一些敏感参数传递的场景
+所用的关键包有hashlib和struct
+其中struct是二进制通信协议中常用的类
